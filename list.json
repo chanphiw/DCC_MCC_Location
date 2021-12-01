@@ -1,0 +1,464 @@
+{
+    "MCC": [
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "INCOMING (1600 A)",
+            "LOCATION": "MDB"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001A-M01    (SOFT START)",
+            "LOCATION": "VGOH-E18-MCC3D1+N02.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "POWER SUPPLY FOR 32K001A-M01 (400 A)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.7"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001A -M02 (3.7 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.5"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001A-M03 (3.7 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.3"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001A-M04 (0.75 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.3"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E001A-E04 (4 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001B-M01    (SOFT START)",
+            "LOCATION": "VGOH-E18-MCC3D1+N02.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "POWER SUPPLY FOR 32K001B-M01 (400 A)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.8"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001B-M02 (3.7 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.4"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001B -M03 (3.7 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32K001B-M04 (0.75 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.4"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E001B-E04 (4 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P006A -M01  (115 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N04.6"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P006B -M01  (115 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N05.5"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P008A -M01 (13 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N04.5"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P008B -M01 (13 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P009A -M01  (86 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.8"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P009B -M01  (86 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.7"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P010A -M01 (13 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.3"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P010B -M01 (13 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.4"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P011A -M01 (13 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.5"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P011B -M01 (13 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N07.6"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P012A-M01 (8 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N03.6"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32P012B-M01 (8 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.5"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E018  -M01  (SUPPLY FEEDER  50 A)",
+            "LOCATION": "VGOH-E18-MCC3D1+N05.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E018 -M01 (VSD  15 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N08.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E018  -M02  (15 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N05.3"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E021  -M01  (SUPPLY FEEDER  50 A)",
+            "LOCATION": "VGOH-E18-MCC3D1+N05.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E021 -M01 (VSD  15 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N08.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "32E021  -M02  (15 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N05.4"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "LP06 -GHU LIGHTING (80 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "CAP01 GHU (100KVA)",
+            "LOCATION": "VGOH-E18-MCC3D1+N04.4"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "HEAT TRACING",
+            "LOCATION": "VGOH-E18-MCC3D1+N04.2"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "MCCB SPARE (30 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N04.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "NORMAL HOIST (19 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N04.3"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "SPARE (5 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.1"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "SPARE DOL (30 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.6"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "SPARE DOL (30 KW)",
+            "LOCATION": "VGOH-E18-MCC3D1+N06.7"
+        },
+        {
+            "MDB_NAME": "3D1",
+            "DESCRIPTION": "SPACE",
+            "LOCATION": "VGOH-E18-MCC3D1+N08.3"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "ACB 2000 A",
+            "LOCATION": "19MCC001+NA01A"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P001A-M01",
+            "LOCATION": "19MCC001+NA02A"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19E001-M01",
+            "LOCATION": "19MCC001+NA02B"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P002A-M01",
+            "LOCATION": "19MCC001+NA02C"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P003A-M01",
+            "LOCATION": "19MCC001+NA02D"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19E005-M01 (FEEDDER)",
+            "LOCATION": "19MCC001+NA02E"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P004A-M01",
+            "LOCATION": "19MCC001+NA02F"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19X001-N01-M01",
+            "LOCATION": "19MCC001+NA02G"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19X001-P01A-M01",
+            "LOCATION": "19MCC001+NA02H"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P007-M01",
+            "LOCATION": "19MCC001+NA02I"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P011A-M01",
+            "LOCATION": "19MCC001+NA02J"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19X002-P01A-M01(FEEDDER)",
+            "LOCATION": "19MCC001+NA03A"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19P013A-M01",
+            "LOCATION": "19MCC001+NA03B"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19K001A-P01",
+            "LOCATION": "19MCC001+NA03C"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA03D"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA03E"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA03F"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA03G"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19K001A-E01",
+            "LOCATION": "19MCC001+NA03H"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19CAP101",
+            "LOCATION": "19MCC001+NA03I"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA04A"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "63 A WELDING OUTLET",
+            "LOCATION": "19MCC001+NA04B"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA04C"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19UPS001 FEEDDER 1",
+            "LOCATION": "19MCC001+NA04D"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC001+NA04E"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "AC-MCC-1/01  MCC ROOM",
+            "LOCATION": "19MCC001+NA04F"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "CEM PROJECT",
+            "LOCATION": "19MCC001+NA04G"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19ELM001",
+            "LOCATION": "19MCC001+NA04H"
+        },
+        {
+            "MDB_NAME": "19MCC001",
+            "DESCRIPTION": "19K001A-M01(ACB 800A)",
+            "LOCATION": "19MCC001+NA06A"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "ACB 2000 A",
+            "LOCATION": "19MCC002+NA01A"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P001B-M01",
+            "LOCATION": "19MCC002+NA02A"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19E001-M02",
+            "LOCATION": "19MCC002+NA02B"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P002B-M01",
+            "LOCATION": "19MCC002+NA02C"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P003B-M01",
+            "LOCATION": "19MCC002+NA02D"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19E005-M02 (FEEDDER)",
+            "LOCATION": "19MCC002+NA02E"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P004B-M01",
+            "LOCATION": "19MCC002+NA02F"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19X001-P01B-M01",
+            "LOCATION": "19MCC002+NA02G"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P008-M01",
+            "LOCATION": "19MCC002+NA02H"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P011B-M01",
+            "LOCATION": "19MCC002+NA02I"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19K001B-E01",
+            "LOCATION": "19MCC002+NA02J"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19X002-P01B-M01(FEEDDER)",
+            "LOCATION": "19MCC002+NA03A"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19P013B-M01",
+            "LOCATION": "19MCC002+NA03B"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19K001B-P01",
+            "LOCATION": "19MCC002+NA03C"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "SPARE",
+            "LOCATION": "19MCC002+NA03D"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "MAIN UPS BYPASS (16UPS001-2)",
+            "LOCATION": "19MCC002+NA03E"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19LMP001/LIGHTING",
+            "LOCATION": "19MCC002+NA04A"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19UPS001 FEEDDER 2",
+            "LOCATION": "19MCC002+NA04B"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "63 A WELDING OUTLET",
+            "LOCATION": "19MCC002+NA04C"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "AC-MCC-2 (CONTROL ROOM)",
+            "LOCATION": "19MCC002+NA04D"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "AC-MCC-3 (OPERATOR ROOM)",
+            "LOCATION": "19MCC002+NA04E"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "MAIN UPS BYPASS (UNIT 19)",
+            "LOCATION": "19MCC002+NA04F"
+        },
+        {
+            "MDB_NAME": "19MCC002",
+            "DESCRIPTION": "19K001B-M01(ACB 800A)",
+            "LOCATION": "19MCC002+NA06A"
+        }
+    ]
+}
